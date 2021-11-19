@@ -26,3 +26,15 @@ header.masthead {
     background-position: center center;
     background-size: cover;
   }
+
+main.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../public/banner-producto.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
